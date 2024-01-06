@@ -5,3 +5,6 @@ https://img.shields.io/discord/869237470565392384?label=wromo
 
 ![Static Badge](https://img.shields.io/badge/:badgeContent)
 
+<img alt="Static Badge" src="https://img.shields.io/badge/:StudioWromo">
+
+
